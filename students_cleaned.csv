@@ -1,0 +1,51 @@
+StudentID,Name,Age,Gender,Course,Email
+101,Rahul Sharma,21,Male,Python,rahul@gmail.com
+102,Priya Verma,22,Female,SQL,priya@gmail.com
+103,Amit Kumar,22,Male,Excel,amit@gmail.com
+104,Neha Singh,22,Female,Python,neha@gmail.com
+105,Rohan Das,23,Male,SQL,rohangmail.com
+106,Anjali Gupta,20,Female,Not Assigned,anjali@gmail.com
+107,Vikas Yadav,24,Male,Python,vikas@gmail.com
+108,Pooja Sharma,22,Female,SQL,pooja@gmail.com
+109,Arjun Patel,22,Male,Excel,arjun@gmail.com
+110,Simran Kaur,21,Female,Python,No Email
+111,Karan Mehta,19,Male,SQL,karan@gmail.com
+112, Ravi Verma ,20,Male,Python,ravi@gmail.com
+113,Sneha Jain,22,Female,Excel,sneha@gmail.com
+114,Deepak Singh,22,Male,SQL,deepak@gmail.com
+115,Meera Gupta,23,Female,Python,meera@gmail.com
+116,Ajay Mishra,25,Male,SQL,ajay@gmail.com
+117,Ritu Singh,21,Female,Excel,ritu@gmail.com
+118,Mohit Verma,22,Male,Python,mohit@gmail.com
+119,Kajal Jain,22,Female,Not Assigned,kajal@gmail.com
+120,Sachin Yadav,22,Male,SQL,sachin@gmail.com
+121,Anu Sharma,24,Female,Python,anu@gmail.com
+122,Rakesh Gupta,26,Male,Excel,rakeshgmail.com
+123,Nikita Das,23,Female,SQL,nikita@gmail.com
+124,Ashish Kumar,22,Male,Python,ashish@gmail.com
+125,Pallavi Singh,21,Female,Excel,No Email
+126,Manish Patel,22,Male,SQL,manish@gmail.com
+127, Divya Sharma ,20,Female,Python,divya@gmail.com
+128,Rohit Jain,22,Male,Excel,rohit@gmail.com
+129,Sonal Gupta,24,Female,SQL,sonal@gmail.com
+130,Vivek Verma,23,Male,Python,vivek@gmail.com
+131,Payal Sharma,21,Female,Excel,payal@gmail.com
+132,Deepak Yadav,22,Male,SQL,deepaky@gmail.com
+133,Ankit Jain,22,Male,Not Assigned,ankit@gmail.com
+134,Shreya Gupta,19,Female,Python,shreya@gmail.com
+135,Rahul Sharma,21,Male,Python,rahul@gmail.com
+136,Neha Verma,22,Female,SQL,neha.verma@gmail.com
+137,Aman Singh,24,Male,Excel,aman@gmail.com
+138,Pooja Gupta,23,Female,Python,poojagmail.com
+139,Ravi Patel,25,Male,SQL,ravi.patel@gmail.com
+140,Komal Jain,22,Female,Excel,komal@gmail.com
+141,Suresh Kumar,22,Male,Python,suresh@gmail.com
+142,Nisha Sharma,21,Female,SQL,No Email
+143,Vikas Gupta,20,Male,Excel,vikas.gupta@gmail.com
+144,Tina Das,22,Female,Python,tina@gmail.com
+145,Harsh Verma,22,Male,SQL,harsh@gmail.com
+146,Megha Singh,24,Female,Not Assigned,megha@gmail.com
+147,Arun Patel,23,Male,Excel,arun@gmail.com
+148,Ritika Jain,21,Female,Python,ritika@gmail.com
+149,Karan Mehta,19,Male,SQL,karan@gmail.com
+150,Aditya Sharma,22,Male,Python,aditya@gmail.com
